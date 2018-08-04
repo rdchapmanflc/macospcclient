@@ -1,8 +1,10 @@
 # macospcclient::pcclient_launchd_plist
 #
-# A description of what this class does
+# This class ensures the launchd plist for Papercut client exists
+# souce is module files on Puppet server
 #
-# @summary A short summary of the purpose of this class
+# @summary This class ensures that com.papercut.client.plist exists
+# with correct mode and owner for LaunchD
 #
 # @example
 #   include macospcclient::pcclient_launchd_plist

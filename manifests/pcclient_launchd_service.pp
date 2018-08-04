@@ -1,8 +1,8 @@
 # macospcclient::pcclient_launchd_service
 #
-# A description of what this class does
+# This class ensures the Papercut launchd service is running
 #
-# @summary A short summary of the purpose of this class
+# @summary Ensure that com.papercut.client.agent is running for system
 #
 # @example
 #   include macospcclient::pcclient_launchd_service

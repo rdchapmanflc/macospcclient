@@ -1,8 +1,12 @@
 # macospcclient
 #
-# A description of what this class does
+# Setup the macOS Papercut client
+# 
 #
-# @summary A short summary of the purpose of this class
+# @summary This sets up the macOS Papercut client
+# Pattren is Package (appdmg) for PCClient.app
+# File com.papercut.client.plist for launchd
+# Service (launchd) for com.papercut.client.agent
 #
 # @example
 #   include macospcclient
