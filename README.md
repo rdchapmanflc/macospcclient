@@ -3,7 +3,7 @@
 
 ## Description
 
-This module setup the macOS Papercut client on a Puppet managed workstation.  
+This module will setup the macOS Papercut client on a Puppet managed workstation.  
 
 ### Setup Requirements **OPTIONAL**
 
